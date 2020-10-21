@@ -39,6 +39,7 @@ public:
       ResolveCustomOpAdd,
       ResolveCustomOpBatchMatMul,
       ResolveCustomOpMatMul,
+      ResolveCustomOpMaxPoolWithArgMax,
       QuantizeDequantizeWeights,
       QuantizeWithMinMax,
       Requantize,
